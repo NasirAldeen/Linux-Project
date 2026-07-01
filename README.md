@@ -1,4 +1,4 @@
-# 🐧 Linux Project — DNS & Proxy Server Configuration
+#  Linux Project — DNS & Proxy Server Configuration
 
 > **Linux**
 > Arab American University (AAUP) — Nablus, West Bank, Palestine
