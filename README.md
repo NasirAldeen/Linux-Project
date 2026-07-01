@@ -1,20 +1,17 @@
 # 🐧 Linux Project — DNS & Proxy Server Configuration
 
-> **Linux Course Lab Assignment**
+> **Linux**
 > Arab American University (AAUP) — Nablus, West Bank, Palestine
 
-This repository contains the full lab report documenting the setup and configuration of two network services on a **Fedora Linux** virtual machine for a fictional local company domain `XYZ.local`.
+This repository contains the full report documenting the setup and configuration of two network services on a **Fedora Linux** virtual machine for a fictional local company domain `XYZ.local`.
 
-**Student:** Mohammad Baker | **ID:** 201912050
-**Course:** Linux | **Section:** 2 | **Department:** Computer Systems Engineering
-**Instructor:** Dr. Allam Abu Maise
-**Submission Date:** 12/06/2026
+
 
 ---
 
 ## 📋 Project Overview
 
-The lab covers the complete configuration of two server services on a Fedora VM:
+ We cover the complete configuration of two server services on a Fedora VM:
 
 - **BIND DNS Server** — Authoritative DNS for the `XYZ.local` domain
 - **Squid Proxy Server** — ACL-based HTTP proxy with caching and access control
@@ -124,7 +121,7 @@ Cache storage configured via `cache_dir ufs` in `squid.conf`.
 
 ## 👤 Author
 
-**Mohammad Baker**
-Computer Systems Engineering Student — Arab American University (AAUP)
+**NasirAldeen Ishtaiah**
+EE Student — Arab American University (AAUP)
 Nablus, West Bank, Palestine
 [LinkedIn](https://www.linkedin.com/in/nasiraldeen-ishtaiah/)
